@@ -65,7 +65,7 @@ li a:hover {
 .email {
 	position: absolute;
 	margin-left: 273px;
-	margin-top: 16px;
+	margin-top: 18px;
 	font-size: 18px;
 }
 
@@ -75,14 +75,15 @@ li a:hover {
 	margin-top: 48px;
 }
 
-.projects h3 {
+.project-header {
 	font-size: 18px;
 	line-height: 1.4em;
-}
-
-.project-header {
 	cursor: pointer;
 	display: inline-block;
+}
+
+.project-header:hover {
+	color: #000;
 }
 
 .projects-list {
@@ -90,7 +91,7 @@ li a:hover {
 }
 
 .projects-list.hide {
-	opacity: 0;
+	display: none;
 }
 
 .projects-list a {
