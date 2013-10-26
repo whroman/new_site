@@ -79,7 +79,6 @@ li a:hover {
 	font-size: 18px;
 	line-height: 1.4em;
 	cursor: pointer;
-	display: inline-block;
 }
 
 .project-header:hover {
