@@ -1,3 +1,8 @@
+.body {
+	width: 600px;
+	margin: 0 auto;
+}
+
 body * {
 	font-family: "helvetica neue", helvetica, arial, sans-serif;
 	font-weight: 200;
@@ -14,12 +19,10 @@ li a:hover {
 }
 
 .navigation {
-	position: absolute;
+	position: relative;
 	width: 500px;
 	height: 140px;
-	margin-left: -256px;
-	left: 50%;
-	margin-top: 130px;
+	margin: 130px auto 0 auto;
 }
 
 .name {
