@@ -102,3 +102,7 @@ li a:hover {
 	line-height: 1.4em;
 }
 
+.projects-list a .indent {
+	text-indent: 18px;
+}
+
