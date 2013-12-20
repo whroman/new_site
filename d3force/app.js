@@ -706,7 +706,7 @@ var shareBtn = d3.select("#share");
 shareBtn.attr("counter", 0);
 d3.select("#share .btn")
     .on("mouseover", function() {
-        var newMap = location.origin + location.host + location.pathname + "?shareMode=true?" + getMapString();
+        var newMap = location.origin + location.pathname + "?shareMode=true?" + getMapString();
         d3.select("#share .field")
             .attr("value", newMap)
 })
