@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+    <div id="map-container">
+        <div id='map-info' class='hide'>
+            <div class='info-title'>
+                Don Quixote de la Mancha
+            </div>
+            <div class='info-subhead'>
+                En un lugar de la Mancha...             
+            </div>
+            <div class='info-description'>
+                <img class='info-pic' src='kitty.jpg' />
+                <p class='info-text'>
+                    ...De cuyo nombre no quiero acordarme no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor.
+                </p>
+            </div>
+            <div class='clearfix'></div>
+            <div class='info-title'>
+                Una Olla de Algo Más Vaca que Carnero
+            </div>
+            <div class='info-subhead'>
+                Salpicón las más noches.
+            </div>
+            <div class='info-description'>
+                <img class='info-pic' src='kitty.jpg' />
+                <p class='info-text'>
+                     Duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda.                
+                </p>
+            </div>
+            <div class='clearfix'></div>
+            <div class='info-title'>
+                El Resto Della Concluían
+            </div>
+            <div class='info-subhead'>
+                Sayo de velarte alzas de velludo para las fiestas.
+            </div>
+            <div class='info-description'>
+                <img class='info-pic' src='kitty.jpg' />
+                <p class='info-text'>
+                    Con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino.         
+                </p>
+            </div>
+            <div class='clearfix'></div>
+        </div>
+
+        <div id='info-toggle'>
+            <img id='info-icon' class="hide" src="close.png">
+            <div id='info-btn' class='open'></div>
+        </div>
+
+        <div id='toolbar'>
+            <div id='share' class='btn'>
+                <a class="btn"></a>
+                <input class="field" onClick="this.select()" type="text">
+            </div>
+            <div id='zoomout' class='btn'></div>
+            <div id='zoomin' class='btn'></div>
+            <a id='clear-screen' class='btn display-none'>Close Pop-Ups</a>
+        </div>
+
+        <svg id="map"></svg>
+    </div>
+    <div id='aToZ'>
+        <text class='textTest'></text>
+    </div>
+<script type="text/javascript" src='screenfull.js'></script>
+<script type="text/javascript" src='typo3backend.json'></script>
+<script type="text/javascript" src='jquery.min.js'></script>
+<script type="text/javascript" src="d3.js"></script>
+<script type="text/javascript" src='main.js'></script>
+<script type="text/javascript" src='app.js'></script>
+</body>
+</html>

@@ -1,0 +1,1356 @@
+var typoTres =
+{
+    "nodes": [{
+        "properties": {
+            "color": "#eedd55",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "",
+            "color": "#eedd55",
+            "opacity": "0.9",
+            // "title": "I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I  I I I I I I I I I I I I I I I I I I I I I I I I I I  I I I I I I I I I I I I I I I I I I",
+            "subtitle": "",
+            // "description": "ad sd sd sd sd sd sd sd as a as f asd fa sf ad ad sd sd sd sd sd d sd sd sd sd sd sd as a as f asd fa sf ad ad sd sd sd sd sd sd sd as a as f asd fa sf ad oi as o sj ad lk as lk as kl lk sd",
+            // "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links <a href=\"http://google.com\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a> or <a href=\"http://google.com\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "description": "",
+            "program": "Ten-Year Forecast"
+        },
+        "group": 1,
+        "class": "mapname"
+    }, {
+        "properties": {
+            "color": "#eedd55",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "Topic With a Very, Very Long Title",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 2,
+        "class": "topic"
+    }, {
+        "properties": {
+            "color": "#eedd55",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "A Forecast This Is",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#eedd55",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "Is This an Enabler? Yes.",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "What? An Enabler",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yes, This is a Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "99% Sure This is a Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#DD4411",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "An Enabler. Just Kidding.",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Topic with a Massively Long Name for Testing Purposes",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 2,
+        "class": "topic"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Forecast 2.1",
+            "description": "As much of the linked article's text as will fit inside this container."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Forecast?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Topic Topic Topic",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 2,
+        "class": "topic"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Disruption",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#33aacc",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Title of a Toooooopic",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 2,
+        "class": "topic"
+    }, {
+        "properties": {
+            "color": "#DD4411",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "Crazy Forecast",
+            "description": "This is a crazy <link 18 - internal-link \"Opens internal link in current window\">Forecast</link>"
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#DD4411",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Signalesque",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#DD4411",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "Topiiiiiiiiic",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 2,
+        "class": "topic"
+    }, {
+        "properties": {
+            "color": "#DD4411",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "I Am Disrupting You",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>."
+        },
+        "group": 3,
+        "class": "disruption"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "I Am Enabling You",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "I Am Signaling You",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "thumbtack_white.png",
+            "opacity": "0.9",
+            "title": "What Do I Enable?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#66AA33",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#33aaCC",
+            "icon": "sun.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "color": "#33aaCC",
+            "icon": "paperclip.png",
+            "opacity": "0.9",
+            "title": "Why Don't I Use Ipsum Lorem?",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "shortTermMilestone": "",
+            "mediumTermMilestone": "",
+            "longTermMilestone": ""
+        },
+        "group": 4,
+        "class": "enabler"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "One of Many Signals",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }, {
+        "properties": {
+            "icon": "plus.png",
+            "opacity": "0.5",
+            "title": "Yet Another Signal",
+            "description": "As much of the linked article's text as will fit inside this container. There is quite a lot to be said about such an interesting topic, but this is just a short snippet. This is a div, not an SVG element, so it supports all HTML5 tags. There may be links&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>&nbsp;or&nbsp;<a href=\"http://google.com/\" class=\"external-link-new-window\" title=\"Opens external link in new window\">here</a>.",
+            "url": ""
+        },
+        "group": 4,
+        "class": "signal"
+    }
+    ],
+    "links": [{
+        "source": 1,
+        "target": 0,
+        "value": 1
+    }, {
+        "source": 2,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 3,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 4,
+        "target": 3,
+        "value": 2
+    }, {
+        "source": 5,
+        "target": 3,
+        "value": 2
+    }, {
+        "source": 6,
+        "target": 3,
+        "value": 2
+    }, {
+        "source": 7,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 8,
+        "target": 7,
+        "value": 2
+    }, {
+        "source": 9,
+        "target": 7,
+        "value": 2
+    }, {
+        "source": 10,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 11,
+        "target": 0,
+        "value": 1
+    }, {
+        "source": 12,
+        "target": 16,
+        "value": 2
+    }, {
+        "source": 13,
+        "target": 11,
+        "value": 2
+    }, {
+        "source": 14,
+        "target": 0,
+        "value": 1
+    }, {
+        "source": 15,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 16,
+        "target": 0,
+        "value": 1
+    }, {
+        "source": 17,
+        "target": 16,
+        "value": 2
+    }, {
+        "source": 18,
+        "target": 16,
+        "value": 2
+    }, {
+        "source": 19,
+        "target": 18,
+        "value": 2
+    }, {
+        "source": 20,
+        "target": 0,
+        "value": 1
+    }, {
+        "source": 21,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 22,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 23,
+        "target": 22,
+        "value": 2
+    }, {
+        "source": 24,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 25,
+        "target": 24,
+        "value": 2
+    }, {
+        "source": 26,
+        "target": 24,
+        "value": 2
+    }, {
+        "source": 27,
+        "target": 24,
+        "value": 2
+    }, {
+        "source": 28,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 29,
+        "target": 28,
+        "value": 2
+    }, {
+        "source": 30,
+        "target": 28,
+        "value": 2
+    }, {
+        "source": 31,
+        "target": 28,
+        "value": 2
+    }, {
+        "source": 32,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 33,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 34,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 35,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 36,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 37,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 38,
+        "target": 32,
+        "value": 2
+    }, {
+        "source": 39,
+        "target": 11,
+        "value": 2
+    }, {
+        "source": 40,
+        "target": 39,
+        "value": 2
+    }, {
+        "source": 41,
+        "target": 39,
+        "value": 2
+    }, {
+        "source": 42,
+        "target": 21,
+        "value": 2
+    }, {
+        "source": 43,
+        "target": 39,
+        "value": 2
+    }, {
+        "source": 44,
+        "target": 39,
+        "value": 2
+    }, {
+        "source": 45,
+        "target": 39,
+        "value": 2
+    }, {
+        "source": 46,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 47,
+        "target": 21,
+        "value": 2
+    }, {
+        "source": 48,
+        "target": 21,
+        "value": 2
+    }, {
+        "source": 49,
+        "target": 46,
+        "value": 2
+    }, {
+        "source": 50,
+        "target": 46,
+        "value": 2
+    }, {
+        "source": 51,
+        "target": 2,
+        "value": 2
+    }, {
+        "source": 52,
+        "target": 18,
+        "value": 2
+    }, {
+        "source": 53,
+        "target": 11,
+        "value": 2
+    }, {
+        "source": 54,
+        "target": 53,
+        "value": 2
+    }, {
+        "source": 55,
+        "target": 53,
+        "value": 2
+    }, {
+        "source": 56,
+        "target": 15,
+        "value": 2
+    }, {
+        "source": 57,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 58,
+        "target": 16,
+        "value": 2
+    }, {
+        "source": 59,
+        "target": 53,
+        "value": 2
+    }, {
+        "source": 60,
+        "target": 17,
+        "value": 2
+    }, {
+        "source": 61,
+        "target": 17,
+        "value": 2
+    }, {
+        "source": 62,
+        "target": 17,
+        "value": 2
+    }, {
+        "source": 63,
+        "target": 12,
+        "value": 2
+    }, {
+        "source": 64,
+        "target": 12,
+        "value": 2
+    }, {
+        "source": 65,
+        "target": 12,
+        "value": 2
+    }, {
+        "source": 66,
+        "target": 12,
+        "value": 2
+    }, {
+        "source": 67,
+        "target": 10,
+        "value": 2
+    }, {
+        "source": 68,
+        "target": 10,
+        "value": 2
+    }, {
+        "source": 69,
+        "target": 10,
+        "value": 2
+    }, {
+        "source": 70,
+        "target": 10,
+        "value": 2
+    }, {
+        "source": 71,
+        "target": 13,
+        "value": 2
+    }, {
+        "source": 72,
+        "target": 13,
+        "value": 2
+    }, {
+        "source": 73,
+        "target": 13,
+        "value": 2
+    }, {
+        "source": 74,
+        "target": 13,
+        "value": 2
+    }, {
+        "source": 75,
+        "target": 2,
+        "value": 2
+    }, {
+        "source": 76,
+        "target": 2,
+        "value": 2
+    }, {
+        "source": 77,
+        "target": 2,
+        "value": 2
+    }, {
+        "source": 78,
+        "target": 2,
+        "value": 2
+    }, {
+        "source": 79,
+        "target": 22,
+        "value": 2
+    }, {
+        "source": 80,
+        "target": 22,
+        "value": 2
+    }, {
+        "source": 81,
+        "target": 22,
+        "value": 2
+    }, {
+        "source": 82,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 83,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 84,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 85,
+        "target": 11,
+        "value": 2
+    }, {
+        "source": 86,
+        "target": 14,
+        "value": 2
+    }, {
+        "source": 87,
+        "target": 1,
+        "value": 2
+    }, {
+        "source": 88,
+        "target": 20,
+        "value": 2
+    }, {
+        "source": 89,
+        "target": 11,
+        "value": 2
+    }, {
+        "source": 90,
+        "target": 18,
+        "value": 2
+    }, {
+        "source": 91,
+        "target": 18,
+        "value": 2
+    }, {
+        "source": 92,
+        "target": 46,
+        "value": 2
+    }, {
+        "source": 93,
+        "target": 46,
+        "value": 2
+    }
+    ]
+}
