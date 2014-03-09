@@ -7,7 +7,8 @@ body * {
 	font-family: "helvetica neue", helvetica, arial, sans-serif;
 	font-weight: 200;
 	letter-spacing: 1px;
-	color: rgba(0,0,0,0.5);
+	color: #777;
+	font-size: 18px;
 }
 
 body a:hover * {
@@ -54,22 +55,18 @@ li a:hover {
 	width: 255px;
 }
 
-.links a {
+.links a, 
+.links h3 {
 	display: inline-block;
 	float: right;
 	clear: both;
-}
-
-.links h3 {
 	line-height: 1.4em;
-	font-size: 18px;
 }
 
 .email {
 	position: absolute;
 	margin-left: 273px;
 	margin-top: 18px;
-	font-size: 18px;
 }
 
 .projects {
@@ -77,11 +74,10 @@ li a:hover {
 	margin-left: 273px;
 	margin-top: 48px;
 	width: 300px;
+	line-height: 1.4em;
 }
 
 .project-header {
-	font-size: 18px;
-	line-height: 1.4em;
 	cursor: pointer;
 }
 
@@ -89,20 +85,17 @@ li a:hover {
 	color: #000;
 }
 
+
 .projects-list {
 	margin-left: 18px;
+	font-size: 18px;
 }
 
-.projects-list.hide {
+.hide {
 	display: none;
 }
 
-.projects-list a {
-	font-size: 18px;
-	line-height: 1.4em;
-}
-
-.projects-list a .indent {
+.projects-list .indent {
 	text-indent: 18px;
 }
 
