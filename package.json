@@ -1,0 +1,7 @@
+{
+  "name": "walter-roman-page",
+  "version": "0.1.0",
+  "devDependencies": {
+    "connect": "~2.14.1"
+  }
+}
