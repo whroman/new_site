@@ -79,7 +79,7 @@ li a:hover {
 	position: absolute;
 	margin-left: 273px;
 	margin-top: 48px;
-	width: 300px;
+	width: 370px;
 	line-height: 1.4em;
 }
 
@@ -93,8 +93,10 @@ li a:hover {
 
 
 .projects-list {
-	margin-left: 18px;
+	padding-left: 5%;
+	width: 45%;
 	font-size: 18px;
+	float: left;
 }
 
 .hide {
@@ -104,4 +106,3 @@ li a:hover {
 .projects-list .indent {
 	text-indent: 18px;
 }
-
