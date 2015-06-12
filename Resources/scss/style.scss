@@ -30,6 +30,22 @@ li a:hover {
 	width: 500px;
 	height: 140px;
 	margin: 130px auto 0 auto;
+
+	.horizontal {
+		position: absolute;
+		width: 100%;
+		margin-top: 42px;
+		height: 1px;
+		background-color: rgba(0,0,0,0.5);
+	}
+
+	.vertical {
+		position: absolute;
+		height: 100%;
+		width: 1px;
+		background-color: rgba(0,0,0,0.5);
+		margin-left: 257px;
+	}
 }
 
 .name {
@@ -38,35 +54,19 @@ li a:hover {
 	margin-left: 15px;
 }
 
-.navigation .horizontal {
-	position: absolute;
-	width: 100%;
-	margin-top: 42px;
-	height: 1px;
-	background-color: rgba(0,0,0,0.5);
-}
-
-.navigation .vertical {
-	position: absolute;
-	height: 100%;
-	width: 1px;
-	background-color: rgba(0,0,0,0.5);
-	margin-left: 257px;
-}
-
 .links {
 	position: absolute;
 	top: 48px;
 	margin-left: -15px;
 	width: 255px;
-}
 
-.links a, 
-.links h3 {
-	display: inline-block;
-	float: right;
-	clear: both;
-	line-height: 1.4em;
+	a, h3 {
+		display: inline-block;
+		float: right;
+		clear: both;
+		line-height: 1.4em;
+	}
+
 }
 
 .email {
@@ -85,10 +85,10 @@ li a:hover {
 
 .project-header {
 	cursor: pointer;
-}
 
-.project-header:hover {
-	color: #000;
+	&:hover {
+		color: #000;
+	}
 }
 
 
@@ -97,12 +97,13 @@ li a:hover {
 	width: 45%;
 	font-size: 18px;
 	float: left;
+	margin-bottom: 20px;
+
+	.indent {
+		text-indent: 18px;
+	}
 }
 
 .hide {
 	display: none;
-}
-
-.projects-list .indent {
-	text-indent: 18px;
 }
