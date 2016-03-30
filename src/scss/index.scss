@@ -1,0 +1,108 @@
+@import "reset";
+
+.body {
+	width: 600px;
+	margin: 0 auto;
+}
+
+*::selection {
+	background-color: transparent;
+}
+
+body * {
+	font-family: "helvetica neue", helvetica, arial, sans-serif;
+	font-weight: 200;
+	letter-spacing: 1px;
+	color: #777;
+	font-size: 18px;
+}
+
+body a:hover * {
+	color: #000;
+}
+
+li a:hover {
+	color: #000;
+}
+
+.navigation {
+	position: relative;
+	width: 500px;
+	height: 140px;
+	margin: 130px auto 0 auto;
+
+	.horizontal {
+		position: absolute;
+		width: 100%;
+		margin-top: 42px;
+		height: 1px;
+		background-color: rgba(0,0,0,0.5);
+	}
+
+	.vertical {
+		position: absolute;
+		height: 100%;
+		width: 1px;
+		background-color: rgba(0,0,0,0.5);
+		margin-left: 257px;
+	}
+}
+
+.name {
+	position: absolute;
+	font-size: 38px;
+	margin-left: 15px;
+}
+
+.links {
+	position: absolute;
+	top: 48px;
+	margin-left: -15px;
+	width: 255px;
+
+	a, h3 {
+		display: inline-block;
+		float: right;
+		clear: both;
+		line-height: 1.4em;
+	}
+
+}
+
+.email {
+	position: absolute;
+	margin-left: 273px;
+	margin-top: 18px;
+}
+
+.projects {
+	position: absolute;
+	margin-left: 273px;
+	margin-top: 48px;
+	width: 370px;
+	line-height: 1.4em;
+}
+
+#project-header {
+	cursor: pointer;
+
+	&:hover {
+		color: #000;
+	}
+}
+
+.projects-list {
+	padding-left: 5%;
+	width: 45%;
+	font-size: 18px;
+	float: left;
+	margin-bottom: 20px;
+
+	.indent {
+		text-indent: 18px;
+	}
+}
+
+.hide {
+	display: none;
+}
