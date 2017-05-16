@@ -29,6 +29,7 @@ gulp.task('build-styles', () =>
 gulp.task('build-html', () =>
     gulp.src(paths.ejs.src)
         .pipe(gp.ejs(data).on('error', gp.util.log))
+        .pipe(gp.htmlmin({collapseWhitespace: true}))
         .pipe(gulp.dest(paths.ejs.dest))
 )
 
