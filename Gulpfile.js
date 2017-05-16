@@ -1,5 +1,4 @@
 var gulp = require('gulp');
-var JSHintStylish = require('jshint-stylish');
 
 // Loads all gulp plugins located in package.json
 // > Call plugins using `gp.<camelizedPluginName>
