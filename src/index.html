@@ -5,13 +5,9 @@
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="public/index.css">
 </head>
-<body class="body">
-    <div class="navigation">
-        <div class="horizontal"></div>
-        <div class="vertical"></div>
-        <a href="">
-            <h1 class="name">walter roman</h1>
-        </a>
+<body>
+    <div class="content">
+        <h1 class="name">walter roman</h1>
         <a href="mailto:me@walterroman.com">
             <h2 class="email">me@walterroman.com</h2>
         </a>
@@ -20,12 +16,12 @@
                 <li class="header">
                     <a href="<%- link.url %>"><%= link.name %></a>
                 </li>
-            <% }); %>
+            <% }) %>
         </ul>
         <div class="projects">
             <h2><label id="project-header" for="project-toggle">projects</label></h2>
             <input type="checkbox" id="project-toggle"/>
-            <div></div>
+            <br/>
             <% projects.forEach(function(projectColumn){ %>
                 <ul class="projects-list">
                     <% projectColumn.forEach(function(project){ %>
@@ -45,7 +41,7 @@
                         </li>
                     <% }) %>
                 </ul>
-            <% }); %>
+            <% }) %>
         </div>
     </div>
 
