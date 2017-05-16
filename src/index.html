@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Walter Roman</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="public/index.css">
+</head>
+<body class="body">
+    <div class="navigation">
+        <div class="horizontal"></div>
+        <div class="vertical"></div>
+        <a href="">
+            <h1 class="name">walter roman</h1>
+        </a>
+        <a href="mailto:me@walterroman.com">
+            <h2 class="email">me@walterroman.com</h2>
+        </a>
+        <ul class="links">
+            <% links.forEach(function(link){ %>
+                <li class="header">
+                    <a href="<%- link.url %>"><%= link.name %></a>
+                </li>
+            <% }); %>
+        </ul>
+        <div class="projects">
+            <h2 id="project-header">projects</h2>
+            <div></div>
+            <% projects.forEach(function(projectColumn){ %>
+                <ul class="projects-list hide">
+                    <% projectColumn.forEach(function(project){ %>
+                        <li>
+                            <ul>
+                                <li class="header">
+                                    <a href="<%= project.url %>"><%= project.name %></a>
+                                </li>
+                                <% project.techs.forEach(function(tech){ %>
+                                    <li class="indent">
+                                        <a href="<%= tech.url %>">
+                                            + <h3><%= tech.name %></h3>
+                                        </a>
+                                    </li>
+                                <% }) %>
+                            </ul>
+                        </li>
+                    <% }) %>
+                </ul>
+            <% }); %>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="public/index.js"></script>
+
+    <!-- analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-58565276-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+</body>
+</html>

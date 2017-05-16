@@ -10,12 +10,16 @@ path.root = {
     scss : path.resources + 'scss/'
 }
 
-// =====
-// #scss
-// =====
+path.ejs = {
+    src: path.resources + 'index.html',
+    watch: path.resources + 'index.html',
+    dest: './'
+}
+
 path.scss = {
     watch   : path.root.scss + '**/*.scss',
     src     : path.root.scss + 'index.scss'
 };
+
 
 module.exports = path;
