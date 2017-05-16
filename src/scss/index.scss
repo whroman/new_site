@@ -91,18 +91,23 @@ li a:hover {
 	}
 }
 
+#project-toggle {
+ 	display: none; /* hide the checkbox */
+
+	&:checked ~ .projects-list {
+	  display: block;
+	}
+}
+
 .projects-list {
 	padding-left: 5%;
 	width: 45%;
 	font-size: 18px;
 	float: left;
 	margin-bottom: 20px;
+	display: none;
 
 	.indent {
 		text-indent: 18px;
 	}
-}
-
-.hide {
-	display: none;
 }

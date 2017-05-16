@@ -23,10 +23,11 @@
             <% }); %>
         </ul>
         <div class="projects">
-            <h2 id="project-header">projects</h2>
+            <h2><label id="project-header" for="project-toggle">projects</label></h2>
+            <input type="checkbox" id="project-toggle"/>
             <div></div>
             <% projects.forEach(function(projectColumn){ %>
-                <ul class="projects-list hide">
+                <ul class="projects-list">
                     <% projectColumn.forEach(function(project){ %>
                         <li>
                             <ul>
@@ -48,8 +49,6 @@
         </div>
     </div>
 
-    <script type="text/javascript" src="public/index.js"></script>
-
     <!-- analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -59,7 +58,6 @@
 
       ga('create', 'UA-58565276-1', 'auto');
       ga('send', 'pageview');
-
     </script>
 
 </body>
