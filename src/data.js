@@ -14,7 +14,6 @@ module.exports = {
                 createLink('mocha', 'https://mochajs.org')
             ]),
             createLink('prompt.ly', 'http://www.prompt.ly', [
-                createLink('react-redux', 'https://github.com/reactjs/react-redux'),
                 createLink('angular.js', 'http://angularjs.org/'),
                 createLink('node', 'https://nodejs.org/'),
                 createLink('trigger.io', 'https://trigger.io')
@@ -28,12 +27,12 @@ module.exports = {
         [
             createLink('kiwi', 'https://kiwi.ki', [
                 createLink('backbone.js', 'http://backbonejs.org'),
-                createLink('browserify', 'http://browserify.org')
+                createLink('browserify', 'http://browserify.org'),
             ]),
             createLink('mortgage scraper', 'https://github.com/tinta/ALLegalsScraper', [
                 createLink('jasmine', 'http://jasmine.github.io/2.3/introduction.html'),
+                createLink('nightmare', 'https://github.com/segmentio/nightmare'),
                 createLink('google oauth', 'http://passportjs.org'),
-                createLink('phantom.js', 'http://phantomjs.org')
             ]),
             createLink('successfactors', 'http://www.successfactors.com/en_us/customers.html', [
                 createLink('jquery', 'http://jquery.com')
